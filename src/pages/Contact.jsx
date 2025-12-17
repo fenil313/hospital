@@ -43,8 +43,8 @@ function Contact() {
               <div className="text-center">
                 <FaPhoneAlt style={iconStyle} />
                 <h4 className="mb-3">Phone</h4>
-                <p className="text-muted">+1 234 567 8900</p>
-                <p className="text-muted">+1 234 567 8901</p>
+                <p className="text-muted">+91 934 567 8900</p>
+                <p className="text-muted">+91 934 567 8901</p>
               </div>
             </Card>
           </Col>
@@ -66,7 +66,7 @@ function Contact() {
                 <FaMapMarkerAlt style={iconStyle} />
                 <h4 className="mb-3">Address</h4>
                 <p className="text-muted">123 Medical Street</p>
-                <p className="text-muted">New York, NY 10001</p>
+                <p className="text-muted">Ahmedabad , IN 382345</p>
               </div>
             </Card>
           </Col>

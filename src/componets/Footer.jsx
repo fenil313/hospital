@@ -65,8 +65,8 @@ function Footer() {
 
           <Col md={4}>
             <h5 style={titleStyle}>Contact Info</h5>
-            <p style={infoTextStyle}>123 Medical Street, New York, NY 10001</p>
-            <p style={infoTextStyle}>+1 234 567 890</p>
+            <p style={infoTextStyle}>123 Medical Street,Bapunagar, Ahmedabad, IN 382345</p>
+            <p style={infoTextStyle}>+91 934 567 890</p>
             <p style={infoTextStyle}>info@hospital.com</p>
           </Col>
 
